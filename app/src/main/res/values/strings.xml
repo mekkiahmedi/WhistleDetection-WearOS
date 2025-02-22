@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deaf Whistler</string>
+      <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="started">Listening</string>
+    <string name="stopped">Stopped</string>
+</resources>
